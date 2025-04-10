@@ -23,4 +23,10 @@ The system was designed with a modular architecture:
 
 The game supports two players who take alternate turns using dedicated switches. Each move updates the internal state of the board, and the game logic evaluates win or draw conditions after every move.
 
-## 📁 Folder Structure (To Be Added)
+## 📚 References
+1. Xilinx Zynq-7000 SoC ZedBoard Reference Manual  
+2. Xilinx Vivado Design Suite  
+3. IEEE Journals and online articles related to hardware-based game design  
+4. Instructables: [FPGA Tic Tac Toe Game](https://www.instructables.com/FPGA-Tic-Tac-Toe-1/)  
+
+
